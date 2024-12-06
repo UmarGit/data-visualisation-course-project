@@ -373,7 +373,7 @@ Through interactive **visualisations**, we will delve into the **past, present, 
 ---
 
 ##### **Data Visualisation: Course Project**
-- **Date:** 4th December 2024
+- **Date:** 6th December 2024
 - **Professor:** Грандилевский Алексей Ильич
 - **Author:** *Умар Ахмед*
 

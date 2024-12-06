@@ -1,5 +1,6 @@
-# **A World in _Flux_**
-### *Unraveling Global Temperature Trends*
+# **A World in `Flux`**
+
+### _Unraveling Global Temperature Trends_
 
 ---
 
@@ -9,9 +10,9 @@ Through interactive **visualisations**, we will delve into the **past, present, 
 ---
 
 ##### **Data Visualisation: Course Project**
-**Date:** 4th December 2024
 
-**Professor:** Грандилевский Алексей Ильич
-**Author:** *Умар Ахмед*
+- **Date:** 6th December 2024
+- **Professor:** Грандилевский Алексей Ильич
+- **Author:** _Умар Ахмед_
 
 ---
