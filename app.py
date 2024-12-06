@@ -362,7 +362,7 @@ def generate_custom_color_maps():
 
 
 markdown = """
-# **A World in `_Flux_`**
+# **A World in `Flux`**
 ### *Unraveling Global Temperature Trends*
 
 ---
