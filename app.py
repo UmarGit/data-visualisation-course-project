@@ -374,14 +374,15 @@ Through interactive **visualisations**, we will delve into the **past, present, 
 
 ##### **Data Visualisation: Course Project**
 **Date:** 4th December 2024
-
 **Professor:** Грандилевский Алексей Ильич
 **Author:** *Умар Ахмед*
 
 ---
 """
 
-st.title("Data Visualisation: Course Project")
+st.set_page_config(
+    page_title="Data Visualisation: Course Project",
+)
 
 st.markdown(markdown)
 
