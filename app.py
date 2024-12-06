@@ -362,7 +362,7 @@ def generate_custom_color_maps():
 
 
 markdown = """
-# **A World in _Flux_**
+# **A World in `_Flux_`**
 ### *Unraveling Global Temperature Trends*
 
 ---
@@ -373,9 +373,9 @@ Through interactive **visualisations**, we will delve into the **past, present, 
 ---
 
 ##### **Data Visualisation: Course Project**
-**Date:** 4th December 2024
-**Professor:** Грандилевский Алексей Ильич
-**Author:** *Умар Ахмед*
+- **Date:** 4th December 2024
+- **Professor:** Грандилевский Алексей Ильич
+- **Author:** *Умар Ахмед*
 
 ---
 """
